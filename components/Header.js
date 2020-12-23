@@ -43,11 +43,11 @@ const Header = () => {
         <Col xs={24} sm={24} md={10} lg={13} xl={11}>
           <span className="header-logo">
             <Link href={{ pathname: '/index' }}>
-              <a> 技术胖</a>
+              <a> 韩硕</a>
             </Link>
 
           </span>
-          <span className="header-txt">专注前端开发,每年100集免费视频。</span>
+          <span className="header-txt">专注前端开发,不断成长学习。</span>
         </Col>
 
         <Col className="memu-div" xs={0} sm={0} md={14} lg={10} xl={7}>
